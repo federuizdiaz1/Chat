@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 import javax.swing.*;
 
 public class Servidor extends JFrame implements Runnable {
-
+//
     public Servidor() {
         initComponents();
         Thread mihilo = new Thread(this); // mi hilo
